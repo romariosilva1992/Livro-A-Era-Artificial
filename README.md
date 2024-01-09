@@ -1,2 +1,2 @@
 #
-![Livro-A-Era-Artificial](projeto_ivro _digital/ayout_completo.jpg)
+![Livro-A-Era-Artificial](projeto_ivro _digital/layout_completo.jpg)
